@@ -20,5 +20,11 @@ As classes de teste desenvolvidas por mim estão prefixadas com "My" — MyGeren
 ![SetUpAndTeatDown](https://github.com/user-attachments/assets/828fd79b-91ea-429f-aaf7-20ade868fee8)
 ![SomeTests](https://github.com/user-attachments/assets/30f161fc-e6ed-4b65-987c-175374d9fed5)
 
+### Informações para execução local
+
+- É necessário ter instalados: Java - versão 8 ou superior, e Eclipse;
+- Primeiro, clone o repositorio na sua máquina;
+- Depois, basta abrí-lo no Eclipse;
+
 ###### Data de criação: 26/04/2025 - 26 de abril de 2025
 ###### Última modificação: 26/04/2025 - 26 de abril de 2025
